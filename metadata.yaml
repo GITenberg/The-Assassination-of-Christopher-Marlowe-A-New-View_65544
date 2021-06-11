@@ -1,5 +1,8 @@
 _repo: The-Assassination-of-Christopher-Marlowe-A-New-View_65544
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65544-h/images/cover.jpg
 creator:
   author:
     agent_name: Tannenbaum, Samuel A. (Samuel Aaron)
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49286
     wikipedia: https://en.wikipedia.org/wiki/Samuel_A._Tannenbaum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65544#The-Assassination-of-Christopher-Marlowe-A-New-View
 gutenberg_issued: '2021-06-07'
 gutenberg_type: Text
 identifiers:
